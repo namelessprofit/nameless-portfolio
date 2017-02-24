@@ -1,17 +1,18 @@
 <snippet>
   <content><![CDATA[
-# ${1:My Portfolio Name}
-TODO: Personal portfolio showcasing my work
+# ${1:My Portfolio}
+Personal portfolio showcasing my projects and assignments for WDI-36.
 ## Installation
-TODO: TBD
+Null
 ## Usage
-TODO: To be used for showcasing my projects and branding
+To be used for showcasing my projects and branding myself as a developer.
+Image is a snippet of my landing page. ![Alttext](/assets/imgs/screenshot.pngraw?=true "landing page")
 ## Contributing
 TODO: Write history
 ## Credits
-TODO: Write credits
+WDI-36, Jean W, Justin Castilla,
 ## License
-TODO: Write license
+Null 
 ]]></content>
   <tabTrigger>readme</tabTrigger>
 </snippet>
