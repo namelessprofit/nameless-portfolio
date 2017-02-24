@@ -1,8 +1,8 @@
 // sanity check
-// console.log("app.js linked.");
-// function myFunction() {
-//     document.getElementById("myForm").submit();
-// }
+console.log("app.js linked.");
+function myFunction() {
+    document.getElementById("myForm").submit();
+}
 submitBtn.click(function () {
     if ($("#valueText").val() === "ENTER VALUE")
     {
